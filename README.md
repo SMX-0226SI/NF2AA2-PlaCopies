@@ -31,6 +31,7 @@ L’objectiu d’aquesta activitat és treballar els aspectes relatius a la pol�
 ### Competències treballades
 
 a) Determinar la logística associada a les operacions d’instal·lació, configuració i manteniment de sistemes microinformàtics, interpretant-ne la documentació tècnica associada i organitzant els recursos necessaris.
+
 j) Elaborar documentació tècnica i administrativa del sistema, complint les normes i reglamentació del sector, per al seu manteniment i l’assistència al client.
 
 ### Resultats d'aprenentatge i criteris d'avaluació
@@ -38,7 +39,9 @@ j) Elaborar documentació tècnica i administrativa del sistema, complint les no
 RA2. Gestiona dispositius d'emmagatzematge descrivint els procediments efectuats i aplicant tècniques per assegurar la integritat de la informació.
 
 2.5 Selecciona estratègies per a la realització de còpies de seguretat.
+
 2.6 Té en compte la freqüència i l'esquema de rotació.
+
 2.7 Realitza còpies de seguretat amb diferents estratègies.
 
 ### Continguts
